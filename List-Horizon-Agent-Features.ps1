@@ -5,7 +5,7 @@ Script to List the VMware Horizon Agent Features Installed
 .NOTES
   Version:        1.0
   Author:         Chris Halstead - chalstead@vmware.com
-  Creation Date:  5/18/2021
+  Creation Date:  6/25/2021
   Purpose/Change: Initial Script
 
   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
