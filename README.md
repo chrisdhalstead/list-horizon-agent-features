@@ -9,8 +9,6 @@ Twitter: @chrisdhalstead  <br />
 
 Show the Installed features in the VMware Horizon Agent
 
-Execute script to show the locally installed VMware Horizon Agent Features"
-
 Absent = Not Installed
 Local = Installed
 
